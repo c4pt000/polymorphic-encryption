@@ -10,3 +10,4 @@ which could constantly change on the public block side of the encrypted code IN 
 
 the more mathematical entropy a system has the more difficult it is to solve or brute force with mathematical guessing
 
+# Todo expanded theory
