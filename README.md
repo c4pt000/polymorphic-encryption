@@ -1,3 +1,4 @@
+# 02-22_2022 (some unwritten theory of mine from 02-20-2021)
 # polymorphic-encryption
 a basic theory of a possible polymorphic-encryption
 
