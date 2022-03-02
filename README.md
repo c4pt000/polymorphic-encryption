@@ -12,6 +12,8 @@ which could constantly change on the public block side of the encrypted code IN 
 the more mathematical entropy a system has the more difficult it is to solve or brute force with mathematical guessing
 
 # Todo expanded theory
+if this was physically in motion and MATHEMATICALLY solvable to decrypt big Prime as theory concept art below
+![s1](https://github.com/c4pt000/polymorphic-encryption/raw/main/Screenshot_20220302-035747-474.png)
 just a concept theory of an ever changing block of an encrypted block doing a polymorphic mathematical evolutionary process to avoid decrypt to prevent and make big Prime from being revealed which would release the secret private key encoded in numerical primes
 similar to one time password of skipping visual guess through mathematical polymorphism of ever changing one time pin keys but this concept art below mimics a possible real world design
 ![s1](https://github.com/c4pt000/polymorphic-encryption/raw/main/Webp.net-gifmaker.gif)
